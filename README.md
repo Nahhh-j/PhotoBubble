@@ -23,17 +23,19 @@
 
 `실시간 편집 및 조합`: 포토버블은 사용자들이 실시간으로 소품을 편집하고 조합할 수 있는 기능을 제공한다. 이를 통해 촬영 전 미리 소품을 조합하고 배치하여 원하는 이미지를 완성할 수 있다.
 
-`필터 QR 저장 및 구경하기`: 사용자가 지정한 필터를 QR로 저장하고, 포토부스에서 QR을 인식해 촬영 구경하기를 통해 다른 사람들의 필터 정보를 확인할 수 있다.
+`소셜 미디어 연동`: 촬영한 네컷 사진은 소셜 미디어에 공유할 수 있도록 지원하여, 사용자들이 자신의 창의적인 작품을 손쉽게 공유할 수 있다.
 
 <br/><br/>
 
 ## 최종 프로젝트 보고서
-[![IMG](github_image/알파프로젝트.png)](https://docs.google.com/presentation/d/1b8ZE7CYjKXbH12_srzm64hIttytICeLp/edit?usp=sharing&ouid=106819234563187428322&rtpof=true&sd=true)
+<a href="https://docs.google.com/presentation/d/1b8ZE7CYjKXbH12_srzm64hIttytICeLp/edit?usp=sharing&ouid=106819234563187428322&rtpof=true&sd=true">
+    <img src="github_image/알파프로젝트.png" alt="IMG" width="350" height="180">
+</a>
 
 <br/><br/>
 
 | 활동 계획서 | FIGMA |
 |:---:|:---:|
-|[![IMG](github_image/활동계획서.png)](https://drive.google.com/file/d/12Phge-HcQ6MMImARjTPsscnfmRIwv5Ly/view?usp=sharing)|[![IMG](github_image/figma_logo.png)](https://www.figma.com/file/vuF2BfiArpOEjrE0vDyBVr/PhotoBubble?type=design&node-id=0%3A1&mode=design&t=cxGcx5cTRvl0Wpgs-1)|
+|<a href="https://drive.google.com/file/d/12Phge-HcQ6MMImARjTPsscnfmRIwv5Ly/view?usp=sharing"><img src="github_image/활동계획서.png" alt="IMG" style="width:100px;height:150px;"></a>|<a href="https://www.figma.com/file/vuF2BfiArpOEjrE0vDyBVr/PhotoBubble?type=design&node-id=0%3A1&mode=design&t=cxGcx5cTRvl0Wpgs-1"><img src="github_image/figma_logo.png" alt="IMG" style="width:100px;height:50px;"></a>|
 
 <br/><br/>
