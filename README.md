@@ -34,6 +34,6 @@
 
 | 활동 계획서 | FIGMA |
 |:---:|:---:|
-|<a href="https://drive.google.com/file/d/12Phge-HcQ6MMImARjTPsscnfmRIwv5Ly/view?usp=sharing"><img src="github_image/활동계획서.png" alt="IMG" style="width:200px;height:250px;"></a>|<a href="https://www.figma.com/file/vuF2BfiArpOEjrE0vDyBVr/PhotoBubble?type=design&node-id=0%3A1&mode=design&t=cxGcx5cTRvl0Wpgs-1"><img src="github_image/figma_logo.png" alt="IMG" style="width:200px;height:130px;"></a>|
+|<a href="https://drive.google.com/file/d/12Phge-HcQ6MMImARjTPsscnfmRIwv5Ly/view?usp=sharing"><img src="github_image/활동계획서.png" alt="IMG" style="width:200px;height:250px;"></a>|<a href="https://www.figma.com/file/vuF2BfiArpOEjrE0vDyBVr/PhotoBubble?type=design&node-id=0%3A1&mode=design&t=cxGcx5cTRvl0Wpgs-1"><img src="github_image/figma_logo.png" alt="IMG" style="width:200px;height:110px;"></a>|
 
 <br/><br/>
