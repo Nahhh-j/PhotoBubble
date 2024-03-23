@@ -28,14 +28,16 @@
 <br/><br/>
 
 ## 최종 프로젝트 보고서
-<a href="https://docs.google.com/presentation/d/1b8ZE7CYjKXbH12_srzm64hIttytICeLp/edit?usp=sharing&ouid=106819234563187428322&rtpof=true&sd=true">
-    <img src="github_image/알파프로젝트.png" alt="IMG" width="350" height="180">
-</a>
+[![IMG](github_image/알파프로젝트.png)](https://docs.google.com/presentation/d/1b8ZE7CYjKXbH12_srzm64hIttytICeLp/edit?usp=sharing&ouid=106819234563187428322&rtpof=true&sd=true)
 
 <br/><br/>
+
+<div align=center>
 
 | 활동 계획서 | FIGMA |
 |:---:|:---:|
 |<a href="https://drive.google.com/file/d/12Phge-HcQ6MMImARjTPsscnfmRIwv5Ly/view?usp=sharing"><img src="github_image/활동계획서.png" alt="IMG" style="width:100px;height:150px;"></a>|<a href="https://www.figma.com/file/vuF2BfiArpOEjrE0vDyBVr/PhotoBubble?type=design&node-id=0%3A1&mode=design&t=cxGcx5cTRvl0Wpgs-1"><img src="github_image/figma_logo.png" alt="IMG" style="width:100px;height:50px;"></a>|
 
 <br/><br/>
+
+</div>
